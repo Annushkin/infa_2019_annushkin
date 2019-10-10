@@ -70,6 +70,5 @@ y1 = 460
 r1 = 30
 sheeps (x1, y1, r1)
 
-ellipse(6, 17, 50, 20, 0, 'white')
 
 run()
